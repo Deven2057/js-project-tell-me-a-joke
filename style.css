@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+}
+
+.container{
+  background-color: #c788f2;
+  padding: 10px 30px;
+  border-radius: 5px;
+  width: 500px;
+  
+}
+.joke-container{
+  background-color: #f3f2f2;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 20px ;
+}
